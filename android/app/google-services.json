@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18463914213",
+    "project_id": "eezimeds-demo",
+    "storage_bucket": "eezimeds-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18463914213:android:b68c6bf771bf91a23efc0c",
+        "android_client_info": {
+          "package_name": "com.example.eezimedz_frontend_mobile_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18463914213-o50pp90c4nqeecfnk3ud45gv6752mats.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5BSed5k7A1RNRKsuGmCmE1XsbubJKoMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18463914213-o50pp90c4nqeecfnk3ud45gv6752mats.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
